@@ -1,0 +1,4 @@
+[
+  {"id": "success", "title": "首富花光钱，完美通关！", "desc": "你成为了西虹市最会花钱的人！", "condition": {"moneyLeft": 0}},
+  {"id": "fail", "title": "钱没花完，挑战失败！", "desc": "你还剩下{moneyLeft}元，遗憾离开首富宝座。", "condition": {"moneyLeft": ">0"}}
+]

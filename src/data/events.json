@@ -1,0 +1,4 @@
+[
+  {"type": "good", "desc": "股市大涨，你的投资赚了2亿！", "effect": {"money": 200000000}},
+  {"type": "bad", "desc": "通货膨胀，物价+10%", "effect": {"priceMultiplier": 1.1}}
+]

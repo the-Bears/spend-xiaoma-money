@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'ZCOOL KuaiLe', 'sans-serif';
+  background: linear-gradient(90deg, #FFD600 60%, #1976D2 100%);
+}
